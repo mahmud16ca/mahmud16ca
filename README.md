@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi, I'm Apon Mahmud Chowdhury
 
-<!--
-**mahmud16ca/mahmud16ca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science & Engineering Student
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a CSE student building my skills in software development,
+problem solving, databases, and modern technologies.
+
+## Technical Skills
+
+Programming:
+- Python
+- Java
+- C++
+- SQL
+
+Tools:
+- Git
+- GitHub
+- VS Code
+- VS Code
+- Android Studio
+- NetBeans
+- PyCharm
+- Code::Blocks
+- MATLAB
+- XAMPP
+- Docker
+- Linux/Ubuntu
+- Kali Linux
+- Cisco Packet Tracer
+- Windows 10/11
+
+## Projects
+
+Coming soon...
+
+## Currently Learning
+
+- Software Engineering
+- Data Structures
+- Database Systems
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/chowdhury-apon-497016280
+Email:chowdhuryapon643@gmail.com
