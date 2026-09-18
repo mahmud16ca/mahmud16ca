@@ -1,48 +1,116 @@
-# Hi, I'm Apon Mahmud Chowdhury
+# 👋 Hi, I'm Mahmud
 
-Computer Science & Engineering Student
+## Computer Science & Engineering Student | Software Developer
 
-## About Me
+Welcome to my GitHub profile.
 
-I am a CSE student building my skills in software development,
-problem solving, databases, and modern technologies.
+I am a Computer Science & Engineering student passionate about building software solutions, exploring new technologies, and turning ideas into practical projects.
 
-## Technical Skills
+---
 
-Programming:
-- Python
-- Java
+## 🎓 About Me
+
+- 🎓 Computer Science & Engineering Student
+- 💻 Interested in Software Development
+- 🚀 Building academic and personal projects
+- 📚 Learning through coding, experimentation, and real-world applications
+
+---
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+
+- C
 - C++
+- Java
+- Python
+- JavaScript
+- PHP
 - SQL
+- Dart
 
-Tools:
-- Git
-- GitHub
-- VS Code
+### Development
+
+- Web Development
+- Mobile Application Development
+- Database Systems
+- Software Engineering
+- API Development
+
+### Tools
+
+- Git & GitHub
 - VS Code
 - Android Studio
-- NetBeans
-- PyCharm
-- Code::Blocks
-- MATLAB
 - XAMPP
+- Code::Blocks
 - Docker
-- Linux/Ubuntu
-- Kali Linux
-- Cisco Packet Tracer
-- Windows 10/11
+- Linux
 
-## Projects
+---
 
-Coming soon...
+## 🚀 Featured Work
 
-## Currently Learning
+### 🏥 Health-Hub-BD
 
-- Software Engineering
-- Data Structures
-- Database Systems
+Healthcare management system focused on improving digital healthcare workflows.
 
-## Connect With Me
+### 🧠 Computer Science Projects
 
-LinkedIn: https://www.linkedin.com/in/chowdhury-apon-497016280
-Email:chowdhuryapon643@gmail.com
+- Data Structures & Algorithms implementations
+- Database applications
+- Web applications
+- Mobile applications
+- Embedded system projects
+
+---
+
+## 📂 Academic Portfolio
+
+My complete CSE journey:
+
+📚 Coursework  
+🧪 Laboratory Works  
+💻 Source Codes  
+📊 Projects  
+📄 Documentation  
+
+Repository:
+
+➡️ CSE-Portfolio
+
+---
+
+## 🌱 Currently Learning
+
+- Full Stack Development
+- React.js
+- Next.js
+- Flutter
+- REST APIs
+- Database Design
+- Cybersecurity Fundamentals
+
+---
+
+## 🎯 Goals
+
+- Build scalable software applications
+- Improve problem-solving skills
+- Contribute to open-source projects
+- Grow as a professional software engineer
+
+---
+
+## 📫 Connect With Me
+
+GitHub:
+https://github.com/mahmud16ca
+
+LinkedIn:
+Coming soon
+
+---
+
+⭐ Thanks for visiting my profile!
