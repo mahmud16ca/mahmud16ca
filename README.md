@@ -109,7 +109,7 @@ GitHub:
 https://github.com/mahmud16ca
 
 LinkedIn:
-Coming soon
+https://www.linkedin.com/in/chowdhury-apon-497016280
 
 ---
 
