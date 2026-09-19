@@ -4,22 +4,23 @@
 
 Welcome to my GitHub profile.
 
-I am a Computer Science & Engineering student passionate about building software solutions, exploring new technologies, and turning ideas into practical projects.
+I am a Computer Science & Engineering student passionate about software development, cybersecurity, artificial intelligence, and building practical technology solutions through academic and personal projects.
 
 ---
 
-## 🎓 About Me
+# 🎓 About Me
 
 - 🎓 Computer Science & Engineering Student
-- 💻 Interested in Software Development
-- 🚀 Building academic and personal projects
+- 💻 Software Development Enthusiast
+- 🚀 Building full-stack, mobile, and embedded projects
+- 🔐 Exploring cybersecurity and secure software development
 - 📚 Learning through coding, experimentation, and real-world applications
 
 ---
 
-## 🛠️ Technical Skills
+# 🛠️ Technical Skills
 
-### Programming Languages
+## Programming Languages
 
 - C
 - C++
@@ -30,80 +31,131 @@ I am a Computer Science & Engineering student passionate about building software
 - SQL
 - Dart
 
-### Development
+---
 
-- Web Development
+## Development
+
+- Full-Stack Web Development
 - Mobile Application Development
 - Database Systems
 - Software Engineering
 - API Development
+- AI Application Integration
 
-### Tools
+---
+
+## Cybersecurity
+
+- Risk Assessment
+- Security Analysis
+- Authentication Systems
+- Secure Database Practices
+- Cryptography Fundamentals
+
+---
+
+## Tools & Platforms
 
 - Git & GitHub
 - VS Code
 - Android Studio
 - XAMPP
-- Code::Blocks
 - Docker
 - Linux
+- Firebase
 
 ---
 
-## 🚀 Featured Work
+# 🚀 Featured Projects
 
-### 🏥 Health-Hub-BD
+## 🏥 Health-Hub~BD
 
-Healthcare management system focused on improving digital healthcare workflows.
+A healthcare management platform designed to digitize hospital workflows including patient management, appointments, prescriptions, laboratory services, and billing.
 
-### 🧠 Computer Science Projects
+**Technologies:**
 
-- Data Structures & Algorithms implementations
-- Database applications
-- Web applications
-- Mobile applications
-- Embedded system projects
+PHP • MySQL • Bootstrap • JavaScript
+
 
 ---
 
-## 📂 Academic Portfolio
+## 🩸 SaveOne
 
-My complete CSE journey:
+A Flutter-based blood donation matching mobile application connecting blood requesters with volunteer donors.
+
+**Technologies:**
+
+Flutter • Dart • Firebase • Location Services
+
+
+---
+
+## 🔐 CIRAS
+
+Cyber Insurance Risk Assessment System for evaluating security practices, vulnerabilities, and cyber risk levels.
+
+**Technologies:**
+
+Python • SQLite • Web Application
+
+
+---
+
+## 🤖 GUB OpenAI Platform
+
+A web-based AI assistant platform integrating AI capabilities into a full-stack application.
+
+**Technologies:**
+
+HTML • CSS • JavaScript • PHP • MySQL
+
+
+---
+
+# 📂 Academic Portfolio
+
+My complete CSE journey includes:
 
 📚 Coursework  
 🧪 Laboratory Works  
 💻 Source Codes  
-📊 Projects  
+🚀 Software Projects  
 📄 Documentation  
 
 Repository:
 
-➡️ CSE-Portfolio
+➡️ **CSE-Portfolio**
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
-- Full Stack Development
 - React.js
 - Next.js
-- Flutter
+- Flutter Advanced Development
 - REST APIs
 - Database Design
-- Cybersecurity Fundamentals
+- Cloud Technologies
+- Cybersecurity Practices
 
 ---
 
-## 🎯 Goals
+# 🎯 Goals
 
 - Build scalable software applications
-- Improve problem-solving skills
+- Improve software engineering skills
 - Contribute to open-source projects
-- Grow as a professional software engineer
+- Develop industry-ready solutions
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Activity
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahmud16ca&show_icons=true&theme=tokyonight)
+
+---
+
+# 📫 Connect With Me
 
 GitHub:
 https://github.com/mahmud16ca
